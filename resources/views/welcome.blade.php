@@ -26,18 +26,7 @@
     <body class="antialiased">
         <div class="text-center">
 			<h1>Bienvenidos a la página de la fundación Laudato siuuu</h1>
-       
-
- <footer style="font-family:sans-serif">
- <div style="width:100vw; height: 50vh; background-color: 40D913;">
- <h2>Contactanos</h2>
- <p>300 857 378</p>
- <p>joseymariafundacion@gmail.com</p>
- <a href="">¿quienés somos?</a> 
-<a href="">¿qué hacemos?</a>
- </div>
-</footer>
-     
+            
             <div class="row h-100">
 		<div class="col-8">
 		  One of two columns
@@ -50,10 +39,7 @@
 			<li> <a href="https://www.facebook.com/"><img src="Imágenes/Facebook.png" 		width="45" height="45" ></a></li>
 
 			<li>
-				<a href="https://www.twitter.com/"><img src="Imágenes/Twitter.png" width="45" 		height="45" ></a></li>
-
-            <li>
-				<a href="https://www.Tiktok.com/"><img src="Descargas/Tiktok.png" width="45" 		height="45" ></a></li>
+				<a href="https://www.twitter.com/"><img src="Imágenes/Twitter.png" width="45" 		height="45" ></a></li>           
 
 			<li>
 				<a href="https://www.youtube.com/"><img src="Imágenes/Youtube.png" width="45" height="45" ></a></
