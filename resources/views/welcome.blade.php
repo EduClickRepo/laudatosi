@@ -41,7 +41,7 @@
 			<li>
 				<a href="https://www.twitter.com/"><img src="Imágenes/Twitter.png" width="45" 		height="45" ></a></li>
 
-<li>
+            <li>
 				<a href="https://www.Tiktok.com/"><img src="Descargas/Tiktok.png" width="45" 		height="45" ></a></li>
 
 			<li>
