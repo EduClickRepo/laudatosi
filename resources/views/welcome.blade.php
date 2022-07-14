@@ -40,8 +40,8 @@
             
             <div class="row h-100">
 		<div class="col-8">
-		  One of two columns
-		</div>
+        
+	</div>
 		<div class="col-1 align-self-end">
 			<h2>Siguenos en:</h2>
 
