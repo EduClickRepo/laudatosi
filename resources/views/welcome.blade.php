@@ -39,7 +39,7 @@
     
             
             <div class="row h-100">
-		<div class="col-8">
+		<div class="col-10">
         
 	</div>
 		<div class="col-1 align-self-end">
