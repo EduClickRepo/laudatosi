@@ -25,7 +25,7 @@
     </head>
     <body class="antialiased">
         <div class="text-center">
-			<h1>Bienvenidos a la página de la fundación Laudato si</h1>
+			<h1>Bienvenidos a la página de la fundación Laudato siuuu</h1>
 		</div>
 		
 		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
