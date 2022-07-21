@@ -26,16 +26,18 @@
     <body class="antialiased">
         <div class="text-center">
 			<h1>Bienvenidos a la página de la fundación Laudato siuuu</h1>
+            
+            <img src="/imagenes/facebook.webp" heihgt=100px width=200px alt="laudato si">
 
-     <footer style="font-family:sans-serif">
-      <div style="width:100vw; height: 50vh; background-color: 40D913;">
-      <h2>Contactanos</h2>
-        <p>300 857 378</p>
-        <p>joseymariafundacion@gmail.com</p>
-        <a href="">¿quienés somos?</a> 
-        <a href="">¿qué hacemos?</a>
-     </div>
-     </footer>
+             <footer style="font-family:sans-serif">
+              <div style="width:100vw; height: 50vh; background-color: 40D913;">
+              <h2>Contactanos</h2>
+                <p>300 857 378</p>
+                <p>joseymariafundacion@gmail.com</p>
+                <a href="">¿quienés somos?</a> 
+                <a href="">¿qué hacemos?</a>
+             </div>
+             </footer>
     
             
             <div class="row h-100">
