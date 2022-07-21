@@ -25,7 +25,48 @@
     </head>
     <body class="antialiased">
         <div class="text-center">
-			<h1>Bienvenidos a la página de la fundación Laudato si</h1>
+			<h1>Bienvenidos a la página de la fundación Laudato siuuu</h1>
+
+     <footer style="font-family:sans-serif">
+      <div style="width:100vw; height: 50vh; background-color: 40D913;">
+      <h2>Contactanos</h2>
+        <p>300 857 378</p>
+        <p>joseymariafundacion@gmail.com</p>
+        <a href="">¿quienés somos?</a> 
+        <a href="">¿qué hacemos?</a>
+     </div>
+     </footer>
+    
+            
+            <div class="row h-100">
+		<div class="col-10">
+        
+	</div>
+		<div class="col-1 align-self-end">
+			<h2>Siguenos en:</h2>
+
+			<ul class="sociales">
+
+			<li> <a href="https://www.facebook.com/"><img src="Imágenes/Facebook.png" 		width="45" height="45" ></a></li>
+
+			<li>
+				<a href="https://www.twitter.com/"><img src="Imágenes/Twitter.png" width="45" 		height="45" ></a></li>           
+
+			<li>
+				<a href="https://www.youtube.com/"><img src="Imágenes/Youtube.png" width="45" height="45" ></a></
+
+			<li>
+				<a href="https://www.Google.com/"><img src="Imágenes/Google.png" width="45" 		height="45" ></></A>
+
+			<li>
+				<a href="https://www.instagram.com/"><img src="Imágenes/Instagram.jpeg" width="45" 		height="45" ></a></li>
+
+			</ul>
+		</div>
+	</div>
+	
+	
+
 		</div>
 		
 		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
