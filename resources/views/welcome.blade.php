@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<a href="https://www.paginadelafundacion.com"
+<p style="backgroun-color:white;font-size:50">declickaqui</p> </a>
+
+<img src="C:\Users\fundj\Desktop\Logo\jpg."width="100vw"height="100vh"style="width:100vw;height:100vh">
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
