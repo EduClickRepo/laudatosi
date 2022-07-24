@@ -31,7 +31,7 @@
         <div class="text-center">
 			<h1>Bienvenidos a la página de la fundación Laudato siuuu</h1>
             
-            <img src="/imagenes/facebook.webp" heihgt=100px width=200px alt="laudato si">
+            <img src="/imagenes/logo_fundacion.jpeg" heihgt=100px width=200px alt="laudato si">
 
              <footer style="font-family:sans-serif">
               <div style="width:100vw; height: 50vh; background-color: 40D913;">
