@@ -53,7 +53,7 @@
 
 			<ul class="sociales">
 
-			<li> <a href="https://www.facebook.com/"><img src="Imágenes/Facebook.png" 		width="45" height="45" ></a></li>
+			<li> <a href="https://www.facebook.com/"><img src="imagenes/facebook.png" 		width="45" height="45" ></a></li>
 
 			<li>
 				<a href="https://www.twitter.com/"><img src="Imágenes/Twitter.png" width="45" 		height="45" ></a></li>           
