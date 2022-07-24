@@ -49,7 +49,7 @@
             </div>
         </div>
 	
-	    <footer style="font-family:sans-serif">
+	    <footer style="font-family:sans-serif; background:lightgray" class="text-center">
               <div style="width:100vw; height: 50vh; background-color: 40D913;">
               <h2>Contactanos</h2>
                 <p>300 857 378</p>
