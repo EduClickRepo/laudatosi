@@ -25,7 +25,7 @@
     </head>
     <body class="antialiased">
         <div class="text-center">
-			<h1>Bienvenidos a la página de la fundación Laudato</h1>
+			<h1>Bienvenidos a la página de la fundación Laudato si</h1>
             
             <img src="/imagenes/logo_fundacion.jpeg" heihgt=100px width=200px alt="laudato si">
         </div>
