@@ -31,21 +31,23 @@
         </div>
             
         
-        </div>
-            <div class="col-1 align-self-end">
-                <h2>Siguenos en:</h2>
+         <div class="row h-100">
+            <div class="col-10">
+                <div class="col-1 align-self-end">
+                    <h2>Siguenos en:</h2>
 
-                <ul class="sociales">
+                    <ul class="sociales">
 
-                <li> <a href="https://www.facebook.com/"><img src="imagenes/facebook.png" 		width="45" height="45" ></a></li>
+                    <li> <a href="https://www.facebook.com/"><img src="imagenes/facebook.png" 		width="45" height="45" ></a></li>
 
-                <li>
-                    <a href="https://www.youtube.com/"><img src="imagenes/youtube.png" width="45" height="45" ></a></
+                    <li>
+                        <a href="https://www.youtube.com/"><img src="imagenes/youtube.png" width="45" height="45" ></a></
 
-                <li>
-                    <a href="https://www.instagram.com/"><img src="imagenes/instagram.png" width="45" 		height="45" ></a></li>
+                    <li>
+                        <a href="https://www.instagram.com/"><img src="imagenes/instagram.png" width="45" 		height="45" ></a></li>
 
-                </ul>
+                    </ul>
+                </div>
             </div>
         </div>
 	
@@ -56,6 +58,8 @@
                 <p>joseymariafundacion@gmail.com</p>
                 <a href="">¿quienés somos?</a> 
                 <a href="">¿qué hacemos?</a>
+                <a href="https://laudatosi.herokuapp.com/dondeEstamos">¿Donde estamos?</a>
+
              </div>
          </footer>
 		
