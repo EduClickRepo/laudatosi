@@ -56,16 +56,10 @@
 			<li> <a href="https://www.facebook.com/"><img src="imagenes/facebook.png" 		width="45" height="45" ></a></li>
 
 			<li>
-				<a href="https://www.twitter.com/"><img src="Imágenes/Twitter.png" width="45" 		height="45" ></a></li>           
+				<a href="https://www.youtube.com/"><img src="imagenes/youtube.png" width="45" height="45" ></a></
 
 			<li>
-				<a href="https://www.youtube.com/"><img src="Imágenes/Youtube.png" width="45" height="45" ></a></
-
-			<li>
-				<a href="https://www.Google.com/"><img src="Imágenes/Google.png" width="45" 		height="45" ></></A>
-
-			<li>
-				<a href="https://www.instagram.com/"><img src="Imágenes/Instagram.jpeg" width="45" 		height="45" ></a></li>
+				<a href="https://www.instagram.com/"><img src="imagenes/instagram.jpeg" width="45" 		height="45" ></a></li>
 
 			</ul>
 		</div>
